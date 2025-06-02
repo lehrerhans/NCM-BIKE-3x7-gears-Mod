@@ -6,4 +6,4 @@ Als Umwerfer findet ein Shimano FD-M770-10 Verwendung.
 Die Kettenblätter sind Shimano Acera oder ähnlich.
 
 
-<img src="Stick.jpg" width="300px" />
+<img src="IMG_5543.JPG" width="300px" />
